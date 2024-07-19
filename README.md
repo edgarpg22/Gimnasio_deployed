@@ -1,4 +1,3 @@
-# gimnasio.deploy
+# Deployed gimnasio
 
-# RENDER LINK
-# https://gimnasio-deploy.onrender.com
+
